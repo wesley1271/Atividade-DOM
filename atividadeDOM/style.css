@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+}
+
+.container {
+  text-align: center;
+  color: white;
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  margin-top: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+#myDiv {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  border: 2px solid #333;
+  border-radius: 12px;
+  background-color: #ccc;
+  transition: 0.3s ease;
+}
+
+#color {
+  width: 60px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+}
+
+#botao {
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #2a5298;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#botao:hover {
+  background: #1e3c72;
+  transform: scale(1.05);
+}
