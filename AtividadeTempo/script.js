@@ -5,14 +5,7 @@ function carregar() {
   // Pegando horário de Brasília corretamente
   var agora = new Date();
 
-  var hora = Number(
-    agora.toLocaleTimeString("pt-BR", {
-      timeZone: "America/Sao_Paulo",
-      hour: "2-digit",
-      hour12: false,
-    }),
-  );
-
+  var hora = 19;
   var minutos = agora.toLocaleTimeString("pt-BR", {
     timeZone: "America/Sao_Paulo",
     minute: "2-digit",
