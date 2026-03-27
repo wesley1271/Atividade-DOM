@@ -1,19 +1,28 @@
-🧠 Conceitos aplicados
-Manipulação do DOM
-Captura de elementos com getElementById
-Eventos (onclick)
-Alteração de estilos via JavaScript
-Estrutura básica de HTML + CSS
-⚙️ Funcionalidades
-🎨 Seleção de cor via input
-🔄 Alteração dinâmica da cor de uma div
-💡 Interface simples e intuitiva
-🛠️ Tecnologias utilizadas
-HTML5
-CSS3
-JavaScript
-📂 Estrutura do projeto
-📁 projeto
+## 🧠 Conceitos aplicados
+
+
+- # Manipulação do DOM
+- # Captura de elementos com getElementById
+- # Eventos (onclick)
+- # Alteração de estilos via JavaScript
+- # Estrutura básica de HTML + CSS
+
+## ⚙️ Funcionalidades
+- #  Seleção de cor via input
+- #  Alteração dinâmica da cor de uma div
+- # Interface simples e intuitiva
+
+  ---
+  
+## Tecnologias utilizadas
+
+- # HTML5
+- #CSS3
+- # JavaScript
+
+## 📂 Estrutura do projeto
+
+# 📁 atividadeDOM
  ├── index.html
  ├── style.css
  └── DOM.js
